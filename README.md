@@ -1,16 +1,16 @@
-<h1>Hi, I'm Khayria! <br/><a href="https://github.com/khayru">Data Analysis</a>, <a href="https://www.linkedin.com/in/khayria/"></a> 
+<h1>Hi, I'm Khayria! <br/><a href="https://github.com/khayru">Data Analysis</a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Data ETL Project </b>
   - [panda python](https://github.com/khayru/Crowdfunding_ETL)
-  - 
+    
 - <b> Tableaue</b>
   - [Tableau Desktop]() <b><i>(panda use to clean the data )</b></i>
   
 - <b>Deep Learning </b>
   - [Deep Learning](https://github.com/khayru/deep-learning-challenge)
-  - 
+    
 - <b>Machen Learning  Project</b>
   - [Predic models (Are you a good credit card client?)](https://github.com/khayru/project_4)
 
