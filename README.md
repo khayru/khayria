@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1>Hi, I'm Khayria! <br/><a href="https://github.com/khayru">Data Analysis</a>, <a href="https://www.linkedin.com/in/khayria/"></a> 
 
-<!--
-**khayru/khayru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Analysis Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Data ETL Project </b>
+  - [panda python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Tableaue</b>
+  - [Tableau Desktop]() <b><i>(panda use to clean the data )</b></i>
+- <b>Deep Learning </b>
+  - [Deep Learning](https://github.com/khayru/deep-learning-challenge)
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Machen Learing  Project</b>
+  - [Predic models (Are you a good credit card client?)](https://github.com/khayru/project_4)
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [what Does a Data Analyst Do](https://www.youtube.com/watch?v=ywZXpfdqg1o)
+- [Machin Learning for Everybody)](https://www.youtube.com/watch?v=i_LwzRVP7bg)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="khayriaIbrahimhigo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="khayriaIbrahimhigo | LinkedIn" width="22px" src="C:\Users\19802\Desktop\linkedln.png" />][linkedin]
+
+
+
+[linkedin]:https://www.linkedin.com/in/khayria/
