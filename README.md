@@ -24,7 +24,6 @@
 
 [<img align="left" alt="khayriaIbrahimhigo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="khayriaIbrahimhigo | LinkedIn" width="22px" src="C:\Users\19802\Desktop\linkedln.png" />][linkedin]
 
 
 
