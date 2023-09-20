@@ -6,7 +6,7 @@
   - [panda python](https://github.com/khayru/Crowdfunding_ETL)
     
 - <b> Tableaue</b>
-  - [Tableau Desktop]() <b><i>(panda use to clean the data )</b></i>
+  - [Tableau Desktop](https://public.tableau.com/app/profile/khayria/viz/genderbyride/Story4?publish=yes) <b><i>(panda use to clean the data )</b></i>
   
 - <b>Deep Learning </b>
   - [Deep Learning](https://github.com/khayru/deep-learning-challenge)
